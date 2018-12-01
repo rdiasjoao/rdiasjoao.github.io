@@ -50039,7 +50039,7 @@ content = {
     "location": "Rio de Janeiro, Brasil",
     "time": "2008 - 2009"
   }, {
-    "college": "Universidade Veiga de ALmeida",
+    "college": "Universidade Veiga de Almeida",
     "course": "Business Intelligence - MBA",
     "location": "Rio de Janeiro, Brasil",
     "time": "2018 - Atualmente"
